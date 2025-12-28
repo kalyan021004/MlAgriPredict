@@ -1,1 +1,6 @@
-myenv/
+myenv/Include
+myenv/Lib
+myenv/Scripts
+myenv/Lib/pyvenv.vfg
+
+
