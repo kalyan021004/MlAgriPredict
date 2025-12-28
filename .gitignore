@@ -1,6 +1,4 @@
-myenv/Include
-myenv/Lib
-myenv/Scripts
-myenv/Lib/pyvenv.vfg
-
-
+myenv/
+venv/
+.venv/
+__pycache__/
